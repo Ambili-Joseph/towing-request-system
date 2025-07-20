@@ -7,7 +7,7 @@ Technical languages
  PHP 8.2
  MySQL
 
- Installation
+
   Clone this repository `git clone https://github.com/Ambili-Joseph/towing-request-system.git .`
   Change directory to React project. `cd view`
   Install the React dependencies. `npm install`
